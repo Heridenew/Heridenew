@@ -1,5 +1,5 @@
 Hi 👋
-I am a computer engineering student looking to learn more and more
+I am a computer engineering student, looking to learn more
 
 [![Edenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heridenew&show_icons=true&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
 
