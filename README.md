@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Edenn 
 
-<img src="{https://www.instagram.com/_.ewss._/}" />
+<img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" />
